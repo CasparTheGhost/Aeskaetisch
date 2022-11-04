@@ -13,9 +13,9 @@ Der natürlich verstellbare Tisch, aus der Natur für ein **langes wohliges** Sc
 
 Hotline 24/7 verfügbar
 
-**Deutschland/Österreich/Schweiz:**
+**Deutschland/Österreich/Schweiz:**\
  Telefonnummer: [+4915733966975]()
-**International:**
+**International:**\
 Telefonnummer: [+4915733966969]()
 
 ## Quellen
