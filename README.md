@@ -1,4 +1,4 @@
-# Wir präsentieren äskäTisch
+![Alt text](Images/ReadMe_logo.png?raw=true "Logo")
 
 Der natürlich verstellbare Tisch, aus der Natur für ein **langes wohliges** Schreiben
 
