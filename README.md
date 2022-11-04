@@ -1,15 +1,17 @@
 ```
 ```
 ![alt text](https://raw.githubusercontent.com/theRandString/Aeskaetisch/main/Images/ReadMe_Logo.png)
-#
+# CAD 3d Modell
+![alt text](https://raw.githubusercontent.com/theRandString/Aeskaetisch/main/Images/Tisch.png)
 
 Der natürlich verstellbare Tisch, aus der Natur für ein **langes wohliges** Schreiben
 
 
 # Projektstruktur
 
+- **[Projektdokumentation]()**
 - **[Betriebsanleitung](https://github.com/theRandString/Aeskaetisch/tree/main/Betriebsanleitung)**
-- **[Präsentation](https://github.com/theRandString/Aeskaetisch/tree/main/Praesentation)**
+- **[Präsentation]()**
 
 
 # Quellen
@@ -56,6 +58,6 @@ Telefonnummer: [+4915733966969]()
 
 # Über uns
 
-![alt text](https://raw.githubusercontent.com/theRandString/Aeskaetisch/main/Images/Gruppenbild1.jpg)
+![alt text](https://raw.githubusercontent.com/theRandString/Aeskaetisch/main/Images/Gruppenbild1.png)
 
 
