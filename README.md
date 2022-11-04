@@ -37,7 +37,7 @@ Der natürlich verstellbare Tisch, aus der Natur für ein **langes wohliges** Sc
 - [https://www.mouser.de/ProductDetail/Microchip-Technology-Atmel/ATMEGA32U2-AU?qs=rBGENRD8NwKYx79eccv8UA%3D%3D](https://www.mouser.de/ProductDetail/Microchip-Technology-Atmel/ATMEGA32U2-AU?qs=rBGENRD8NwKYx79eccv8UA%3D%3D)\
 [letzter Zugriff: 03.11.2022, 8:24]
 
-**Größte Quelle ist unsere Gruppen Kompetenz gewesen**
+**Größte Quelle ist unsere Gruppenkompetenz gewesen**
 
 
 
