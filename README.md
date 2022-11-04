@@ -1,4 +1,7 @@
-![Alt text](Images/ReadMe_logo.png?raw=true "Logo")
+```
+```
+![alt text](https://raw.githubusercontent.com/theRandString/Aeskaetisch/main/Images/ReadMe_Logo.png)
+#
 
 Der natürlich verstellbare Tisch, aus der Natur für ein **langes wohliges** Schreiben
 
@@ -36,13 +39,9 @@ Der natürlich verstellbare Tisch, aus der Natur für ein **langes wohliges** Sc
 [letzter Zugriff: 03.11.2022, 8:24]
 
 **Größte Quelle ist unsere Gruppen Kompetenz gewesen**
-\
-\
-\
-\
-\
-\
-\
+
+
+
 
 # Support
 
