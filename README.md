@@ -15,8 +15,8 @@ Hotline 24/7 verfügbar
 
 **Deutschland/Österreich/Schweiz:**
 
- Telefonnummer: [+4915733966975]()
+ Telefonnummer: [+49 1573 3966975]()
 
 **International:**
 
- Telefonnummer: [+4915733966969]()
+ Telefonnummer: [+49 1573 3966969]()
