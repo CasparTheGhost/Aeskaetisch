@@ -56,8 +56,5 @@ Hotline 24/7 verfügbar
 \
 Telefonnummer: [+4915733966969]()
 
-# Über uns
-
-![alt text](https://raw.githubusercontent.com/theRandString/Aeskaetisch/main/Images/Gruppenbild1.png)
 
 
