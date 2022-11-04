@@ -8,6 +8,7 @@ Der natürlich verstellbare Tisch, aus der Natur für ein **langes wohliges** Sc
 
 # Projektstruktur
 
+- **[Projektdokumentation]()**
 - **[Betriebsanleitung](https://github.com/theRandString/Aeskaetisch/tree/main/Betriebsanleitung)**
 - **[Präsentation]()**
 
@@ -37,7 +38,7 @@ Der natürlich verstellbare Tisch, aus der Natur für ein **langes wohliges** Sc
 - [https://www.mouser.de/ProductDetail/Microchip-Technology-Atmel/ATMEGA32U2-AU?qs=rBGENRD8NwKYx79eccv8UA%3D%3D](https://www.mouser.de/ProductDetail/Microchip-Technology-Atmel/ATMEGA32U2-AU?qs=rBGENRD8NwKYx79eccv8UA%3D%3D)\
 [letzter Zugriff: 03.11.2022, 8:24]
 
-**Größte Quelle ist unsere Gruppenkompetenz gewesen**
+**Größte Quelle ist unsere Gruppen Kompetenz gewesen**
 
 
 
@@ -53,3 +54,9 @@ Hotline 24/7 verfügbar
 **International:**\
 \
 Telefonnummer: [+4915733966969]()
+
+# Über uns
+
+![alt text](https://raw.githubusercontent.com/theRandString/Aeskaetisch/main/Images/Gruppenbild1.jpg)
+
+
