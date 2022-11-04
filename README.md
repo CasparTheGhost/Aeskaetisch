@@ -15,8 +15,18 @@ Hotline 24/7 verfügbar
 
 **Deutschland/Österreich/Schweiz:**
 
- Telefonnummer: [+49 1573 3966975]()
+ Telefonnummer: [+4915733966975]()
 
 **International:**
 
- Telefonnummer: [+49 1573 3966969]()
+Telefonnummer: [+4915733966969]()
+
+## Quellen
+
+- [https://marino.pl/12405_de.html](https://marino.pl/12405_de.html) 
+[letzter Zugriff: 03.11.2022, 11:46]
+- [https://solarenergie.de/hintergrundwissen/stromerzeugung/oekostrom/vor-und-nachteile-von-oekostrom](https://solarenergie.de/hintergrundwissen/stromerzeugung/oekostrom/vor-und-nachteile-von-oekostrom) 
+[letzter Zugriff: 04.11.2022, 9:32]
+
+
+
