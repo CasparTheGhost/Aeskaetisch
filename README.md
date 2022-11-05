@@ -10,7 +10,7 @@ Der natürlich verstellbare Tisch, aus der Natur für ein **langes wohliges** Sc
 # Projektstruktur
 
 - **[Betriebsanleitung](https://github.com/theRandString/Aeskaetisch/tree/main/Betriebsanleitung)**
-- **[Präsentation]()**
+- **[Präsentation](https://github.com/theRandString/Aeskaetisch/tree/main/Praesentation)**
 
 
 # Quellen
