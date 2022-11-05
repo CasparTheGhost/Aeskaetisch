@@ -7,7 +7,7 @@
 Der natürlich verstellbare Tisch, aus der Natur für ein **langes wohliges** Schreiben
 
 
-# Projektstruktur
+# Quicklinks
 
 - **[Betriebsanleitung](https://github.com/theRandString/Aeskaetisch/tree/main/Betriebsanleitung)**
 - **[Präsentation](https://github.com/theRandString/Aeskaetisch/tree/main/Praesentation)**
