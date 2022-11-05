@@ -2,7 +2,7 @@
 ```
 ![alt text](https://raw.githubusercontent.com/theRandString/Aeskaetisch/main/Images/ReadMe_Logo.png)
 # CAD 3d Modell
-![alt text](https://raw.githubusercontent.com/theRandString/Aeskaetisch/main/Images/Tisch.png)
+![alt text](https://raw.githubusercontent.com/theRandString/Aeskaetisch/main/Images/Tisch.gif)
 
 Der natürlich verstellbare Tisch, aus der Natur für ein **langes wohliges** Schreiben
 
